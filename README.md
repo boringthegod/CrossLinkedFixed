@@ -12,6 +12,9 @@ CrossLinked is a LinkedIn enumeration tool that uses search engine scraping to c
 organization. This technique provides accurate results without the use of API keys, credentials, or accessing 
 LinkedIn directly!
 
+# Additional installation of this fork
+
+Install camoufox : https://camoufox.com/python/installation/
 
 ## Table of Contents
 - [Install](#install)
